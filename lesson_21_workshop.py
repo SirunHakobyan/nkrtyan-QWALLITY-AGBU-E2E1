@@ -2,7 +2,7 @@
 print("It's my first program!")
 
 # 2. Print your name and surname on the second line in the terminal.
-print("Srbuhi Hambardzumyan")
+print("Srbuhi Hambardzumyann")
 
 # 3. Leave the third line empty in the terminal.
 print()
